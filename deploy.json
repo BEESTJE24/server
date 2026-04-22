@@ -1,4 +1,16 @@
 {
-  "version": 1.0,
-  "exe_url": "https://github.io"
+  "files": [
+    {
+      "name": "BedrijfsMonitor.exe",
+      "version": 1.1,
+      "url": "https://github.io",
+      "launch": true
+    },
+    {
+      "name": "Hulpprogramma.exe",
+      "version": 1.0,
+      "url": "https://github.io",
+      "launch": false
+    }
+  ]
 }
